@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,46 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+#delete {
+  color: red;
+  cursor: pointer;
+}
+
+.btn {
+  padding: 0.5em;
+  margin: 0.5em;
+  color: blanchedalmond;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: coral;
+  font-weight: bolder;
+}
+
+th {
+  color: azure;
+  size: 3rem;
+  background-color: cornflowerblue;
+
+}
+
+table {
+  margin-left: 10%;
+}
+
+.button {
+  margin-top: 4rem;
+  margin-left: 9%;
+}
+
+form {
+  margin-left: 9%;
+}
+
+h1,
+p {
+  margin-left: 10%;
+  color: aqua;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
